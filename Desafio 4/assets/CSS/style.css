@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-size: 4rem;
+}
+
+.hero-section {
+    background-image: url("../img/bg-header.jpg");
+    /* The image used */
+    background-color: #cccccc;
+    /* Used if the image is unavailable */
+    height: 70rem;
+    /* You must set a specified height */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+
+<embed type="application/x-google-chrome-pdf" src="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/547f2aa0-b7dd-4848-9cfd-9bdf22399eea" original-url="file:///C:/Users/DELL/Downloads/02_d_Desafi%CC%81o_4_-_Cuppon.pdf" background-color="4280821800" javascript="allow" full-frame="">
+
+    /* Resize the background image to cover the entire container */
+}
+
+Collapsed content
+
+
+.descripcion {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem 0 2rem 0;
+}
+
+.descripcion>div>img {
+    height: 18rem;
+    width: 30rem;
+    margin: 0%;
+}
+
+.Caracteristicas {
+    background-color: #1E1A13;
+
+
+}
+
+.Caracteristicas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    min-height: 20vh;
+}
+
+.Caracteristicas>h2 {
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+
+}
+
+.Caracteristicas_icon {
+    display: flex;
+    justify-content: space-around;
+    text-align: content;
+    align-items: center;
+    flex-direction: center;
+
+}
+
+
+.galeria {
+    display: flex;
+    justify-content: space-around;
+    margin: 4.5rem;
+}
+
+.galeria>div>img {
+    height: 12.5rem;
+    width: 20rem;
+}
+
+footer {
+    background-color: rgb(white, ) height: 5rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
